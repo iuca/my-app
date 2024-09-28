@@ -47,6 +47,8 @@ const Arvind = () => {
     <div class="container">
         <header>
             <h1>Arvind Kumar Gupta</h1>
+            <img src='https://media.licdn.com/dms/image/v2/C5603AQFKU4BhYFhUMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640344293754?e=1732752000&v=beta&t=EQlbeoQf3ieb0tC6nfeguT-Okpa5DnAITHInoz5REyI' 
+            style={{width : "150px" ,float: "right",position: "absolute" ,top: "0" ,right: "21%"}}/>
             <p>Email: kumararvind213@gmail.com | Phone: 7411601025</p>
             <p>Location: Bangalore, India</p>
         </header>
@@ -59,8 +61,8 @@ const Arvind = () => {
         <section class="experience">
             <h2>Work Experience</h2>
             <div class="job">
-                <h3>Job Title 1</h3>
-                <p>Company Name, Location <span>(Month Year - Month Year)</span></p>
+                <h3>Senior Developer</h3>
+                <p>Accenture pvt ltd, Bangalore <span>( 2024 - Current)</span></p>
                 <ul>
                     <li>Responsibility/achievement 1</li>
                     <li>Responsibility/achievement 2</li>
@@ -68,8 +70,8 @@ const Arvind = () => {
                 </ul>
             </div>
             <div class="job">
-                <h3>Job Title 2</h3>
-                <p>Company Name, Location <span>(Month Year - Month Year)</span></p>
+                <h3>Senior Developer</h3>
+                <p>HCL Technology, Bangalore <span>(2021- 2024)</span></p>
                 <ul>
                     <li>Responsibility/achievement 1</li>
                     <li>Responsibility/achievement 2</li>
@@ -81,23 +83,23 @@ const Arvind = () => {
         <section class="education">
             <h2>Education</h2>
             <div class="degree">
-                <h3>Degree Title</h3>
-                <p>University Name, Location <span>(Month Year - Month Year)</span></p>
+                <h3>MCA</h3>
+                <p>Integral University, Lucknow <span>(2011 - 2014)</span></p>
             </div>
             <div class="degree">
-                <h3>Additional Certifications</h3>
-                <p>Certification Name, Issuing Organization <span>(Month Year)</span></p>
+                <h3>BCA</h3>
+                <p>IISE, Lucknow <span>2010</span></p>
             </div>
         </section>
 
         <section class="skills">
             <h2>Skills</h2>
             <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
-                <li>Skill 4</li>
-                <li>Skill 5</li>
+                <li>React js </li>
+                <li>Angular</li>
+                <li>Javascript</li>
+                <li>jquery</li>
+                <li>Typescript</li>
             </ul>
         </section>
     </div>
